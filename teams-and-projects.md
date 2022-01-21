@@ -5,9 +5,9 @@
 
 | Команда | Проект | Ближайший дедлайн | GitHub | Примечания |
 | ------- | ------ | ----------------- | ------ | ---------- |
-| Зиннурова Диана, <br> Петров Олег, <br> Бордюгов Максим, <br> Каледин Андрей | &mdash; | 02.02 &mdash; Выбрать тему проекта и создать репозиторий | &mdash; | |
+| Зиннурова Диана ([@dianissimo_z](https://t.me/dianissimo_z)), <br> Петров Олег, <br> Бордюгов Максим ([@DedAzaMarks](https://t.me/DedAzaMarks)), <br> Каледин Андрей ([@kaledin_andrew](https://t.me/kaledin_andrew)) | &mdash; | 02.02 &mdash; Выбрать тему проекта и создать репозиторий | &mdash; | |
 | Алиса Гареева ([@gareeva_aa](https://t.me/gareeva_aa)), <br> Серёжа Рахманов ([@shoraiixyz](https://t.me/shoraiixyz)), <br> Лиза Шатская ([@NanamyYu](https://t.me/NanamyYu)) | &mdash; |  02.02 &mdash; Выбрать тему проекта и создать репозиторий | &mdash; | |
-| TBD | TBD | TBD | TBD | |
+| Сальков Леонид (@Mr_Leroy), <br> Неминская Софья (@neminskaia), <br> Крапивина Мария (@itoyaaa), <br> Конюх Александр (@snorIax), <br> | &mdash; | 02.02 &mdash; Выбрать тему проекта и создать репозиторий | &mdash; | |
 
 Дедлайны
 =================
