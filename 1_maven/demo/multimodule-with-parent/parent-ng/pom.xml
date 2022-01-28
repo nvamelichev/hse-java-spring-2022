@@ -11,7 +11,7 @@
 
     <properties>
         <encoding>UTF-8</encoding>
-        <java.version>15</java.version>
+        <java.version>17</java.version>
 
         <project.build.sourceEncoding>${encoding}</project.build.sourceEncoding>
         <project.build.resourceEncoding>${encoding}</project.build.resourceEncoding>

@@ -7,6 +7,6 @@ public final class Logging {
     }
 
     public static void log(String message) {
-        System.out.println(Instant.now() + " INFO - " + message);
+        System.out.println(Instant.now() + " ERROR - " + message);
     }
 }
