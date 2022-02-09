@@ -5,7 +5,7 @@
 
 | Команда | Проект | Ближайший дедлайн | GitHub | Примечания |
 | ------- | ------ | ----------------- | ------ | ---------- |
-| Зиннурова Диана (@dianissimo_z), <br> Петров Олег, <br> Бордюгов Максим (@DedAzaMarks), <br> Каледин Андрей (@kaledin_andrew) | Крестики-нолики онлайн: REST-сервис + консольный клиент к нему | 11.02 &mdash; Проектная документация | https://github.com/kaledinandrew/TicTacToeOnline | * Проект повышенной трудности <br> * Опыт бэкенд-разработки есть у Максима и Андрея <br> * Web UI не будет, поэтому HTML/CSS/Javascript, к счастью, остаются за бортом |
+| Зиннурова Диана (@dianissimo_z), <br> Петров Олег, <br> Бордюгов Максим (@DedAzaMarks), <br> Каледин Андрей (@kaledin_andrew), <br> Сергей Стриженок (@sstrizhenok) | Крестики-нолики онлайн: REST-сервис + консольный клиент к нему | 11.02 &mdash; Проектная документация | https://github.com/kaledinandrew/TicTacToeOnline | * Проект повышенной трудности <br> * Крупная и опытная команда, поэтому scope проекта будет больше, чем у остальных <br> * Опыт бэкенд-разработки есть у Максима, Андрея и Сергея <br> * Web UI не будет, поэтому HTML/CSS/Javascript, к счастью, остаются за бортом |
 | Алиса Гареева (@gareeva_aa), <br> Серёжа Рахманов (@shoraiixyz), <br> Лиза Шатская (@NanamyYu) | Плагин для сервера Minecraft, который добавляет авторизацию через Discord* | 11.02 &mdash; Проектная документация | https://github.com/NanamyYu/discraft | * Проект повышенной трудности |
 | Сальков Леонид (@Mr_Leroy), <br> Крапивина Мария (@itoyaaa), <br> Конюх Александр (@snorIax), <br> Новиков Георгий (@gosha22397) | 2. Консольный органайзер | 11.02 — Проектная документация | https://github.com/mr1er0y/Console-Organizer | |
 | Березовский Валерий (@jeembogod), <br> Городилова Анастасия (@nastygorodi) | 9. Генератор коротких текстов (как Яндекс.Рефераты, но для заголовков FAKE NEWS!!!) | 11.02 &mdash; Проектная документация | https://github.com/nastygorodi/PROJECT-Short_Text_Generator | |
@@ -29,11 +29,13 @@
 
 Предстоящие:
 - **Первая версия проектной документации (Product Vision, User Stories):** 11.02
-  - FAQ, как её писать: https://github.com/nvamelichev/hse-java-spring-2022/blob/main/requirements-faq.md
-  - Product Vision:
+  - Видео: https://www.youtube.com/watch?v=YeHFzvHKS9E
+  - Презентация: https://github.com/nvamelichev/hse-java-spring-2022/blob/main/2_requirements/2_requirements.pdf
+  - FAQ: https://github.com/nvamelichev/hse-java-spring-2022/blob/main/requirements-faq.md
+  - Почитать про Product Vision:
     - https://leadstartup.ru/db/product-vision (Agile)
     - https://intuit.ru/studies/courses/2188/174/lecture/4724?page=2 (более формальный подход из методологий RUP и MSF)
-  - User Stories:
+  - Почитать про User Stories:
     - https://ru.wikipedia.org/wiki/Пользовательские_истории (сухая теория)
     - https://pmclub.pro/articles/user-story-pora-primenyat-pravilno (немного практики)
 - **Окончательная версия проектной документации (Product Vision, User Stories)**: 18.02.
