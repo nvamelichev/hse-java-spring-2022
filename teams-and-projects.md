@@ -12,7 +12,7 @@
 | Бекетов Никита Дмитриевич (@try2becareful), <br> Курбанов Рустам Шамилевич (@vkontaktekruto), <br> Турчанинов Михаил Валерьевич (@FANCYoj), <br> Захаров Никита (@nick_nerd)  | 1. Экстрактор метаданных и текста из файлов для быстрого поиска | 11.02 &mdash; Проектная документация | https://github.com/Placebo900/metadata-extractor-java | |
 | Леванков Егор (@YegorLevankov), <br> Пантелеев Даниил(@rooper), <br> Андрей Козлов(@Andrew_D_Kozlov), <br> Алексей Голенков (@Golenkov1) | 10. Простая Roguelike-игра с текстовым интерфейсом | 02.02 &mdash; Создать репозиторий <br> 11.02 &mdash; Проектная документация | https://github.com/elevankoff/roguelike | |
 | Кайралап Досбол (@DosBall), <br> Калкаманов Илияс (@ikalkamanov), <br> Ярусский Илья (@Ilyarusish) | 8. Симулятор клеточных автоматов | 11.02 — Проектная документация | https://github.com/DosBall/java-cell-auto-sim | |
-| Семён Степанов (@seemsgoood), <br> Василий Вялков (@vslvlkv), <br> Илья Сизов (@sizovjr), <br> Рябов Николай (@ry461ch) | 4. RPN-калькулятор (Модульный) | 11.02 — Проектная документация | https://github.com/AndroidM0nkey/hse-java-spring-2022 | |
+| Семён Степанов (@seemsgoood), <br> Василий Вялков (@vslvlkv), <br> Илья Сизов (@sizovjr), <br> Рябов Николай (@ry461ch) | 4. RPN-калькулятор (Модульный) | 11.02 — Проектная документация | https://github.com/AndroidM0nkey/hse-java-2022-calc | |
 
 Вне команд (на курс не записаны, проект не берут, могут только смотреть зум с практиками, если захотят):
 * @dimitry
