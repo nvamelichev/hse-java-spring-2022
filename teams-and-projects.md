@@ -25,10 +25,7 @@
   - Идеи проектов: https://github.com/nvamelichev/hse-java-spring-2022/blob/main/project-ideas.md
   - Можно взять свою тему (по согласованию с преподавателем)
   - **Сменить тему** можно до 09.02 включительно, если в команде большинство участников «за».
-</details>
-
-Предстоящие:
-- **Первая версия проектной документации (Product Vision, User Stories):** 11.02
+- **Первая версия проектной документации (Product Vision, User Stories):** 11.02 /**срок ожидания был продлён до 16.02**/
   - Видео: https://www.youtube.com/watch?v=YeHFzvHKS9E
   - Презентация: https://github.com/nvamelichev/hse-java-spring-2022/blob/main/2_requirements/2_requirements.pdf
   - FAQ: https://github.com/nvamelichev/hse-java-spring-2022/blob/main/requirements-faq.md
@@ -37,7 +34,10 @@
     - https://intuit.ru/studies/courses/2188/174/lecture/4724?page=2 (более формальный подход из методологий RUP и MSF)
   - Почитать про User Stories:
     - https://ru.wikipedia.org/wiki/Пользовательские_истории (сухая теория)
-    - https://pmclub.pro/articles/user-story-pora-primenyat-pravilno (немного практики)
+    - https://pmclub.pro/articles/user-story-pora-primenyat-pravilno (немного практики)  
+</details>
+
+Предстоящие:
 - **Окончательная версия проектной документации (Product Vision, User Stories)**: 18.02.
 
 Общие требования
