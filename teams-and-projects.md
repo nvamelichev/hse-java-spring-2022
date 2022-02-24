@@ -5,14 +5,14 @@
 
 | Команда | Проект | Ближайший дедлайн | GitHub | Примечания |
 | ------- | ------ | ----------------- | ------ | ---------- |
-| Зиннурова Диана (@dianissimo_z), <br> Петров Олег (@pauchara0), <br> Бордюгов Максим (@DedAzaMarks), <br> Каледин Андрей (@kaledin_andrew), <br> Сергей Стриженок (@sstrizhenok) | Крестики-нолики онлайн: REST-сервис + консольный клиент к нему | 25.02 &mdash; ОО-дизайн v1 (CRC-карточки) | [TicTacToeOnline](https://github.com/kaledinandrew/TicTacToeOnline) | <details><summary>* Проект повышенной трудности</summary>* Крупная и опытная команда, поэтому scope проекта будет больше, чем у остальных <br> * Опыт бэкенд-разработки есть у Максима, Андрея и Сергея <br> * Web UI не будет, поэтому HTML/CSS/Javascript, к счастью, остаются за бортом</details> |
-| Алиса Гареева (@gareeva_aa), <br> Серёжа Рахманов (@shoraiixyz), <br> Лиза Шатская (@NanamyYu) | Плагин для сервера Minecraft, который добавляет авторизацию через Discord* | 25.02 &mdash; ОО-дизайн v1 (CRC-карточки) | [discraft](https://github.com/NanamyYu/discraft) | * Проект повышенной трудности |
-| Сальков Леонид (@Mr_Leroy), <br> Крапивина Мария (@itoyaaa), <br> Конюх Александр (@snorIax), <br> Новиков Георгий (@gosha22397) | 2. Консольный органайзер | 25.02 — ОО-дизайн v1 (CRC-карточки) | [Console-Organizer](https://github.com/mr1er0y/Console-Organizer) | |
-| Березовский Валерий (@jeembogod), <br> Городилова Анастасия (@nastygorodi) | 9. Генератор коротких текстов (как Яндекс.Рефераты, но для заголовков FAKE NEWS!!!) | 25.02 &mdash; ОО-дизайн v1 (CRC-карточки) | [PROJECT-Short_Text_Generator](https://github.com/nastygorodi/PROJECT-Short_Text_Generator) | |
-| Бекетов Никита Дмитриевич (@try2becareful), <br> Курбанов Рустам Шамилевич (@vkontaktekruto), <br> Турчанинов Михаил Валерьевич (@FANCYoj), <br> Захаров Никита (@nick_nerd)  | 1. Экстрактор метаданных и текста из файлов для быстрого поиска | 25.02 &mdash; ОО-дизайн v1 (CRC-карточки) | [metadata-extractor-java](https://github.com/Placebo900/metadata-extractor-java) | |
-| Леванков Егор (@YegorLevankov), <br> Пантелеев Даниил (@roopeer), <br> Андрей Козлов (@Andrew_D_Kozlov), <br> Алексей Голенков (@Golenkov1) | 10. Простая Roguelike-игра с текстовым интерфейсом | 25.02 &mdash; ОО-дизайн v1 (CRC-карточки) | [roguelike](https://github.com/elevankoff/roguelike) |  |
+| Зиннурова Диана (@dianissimo_z), <br> Петров Олег (@pauchara0), <br> Бордюгов Максим (@DedAzaMarks), <br> Каледин Андрей (@kaledin_andrew), <br> Сергей Стриженок (@sstrizhenok) | Крестики-нолики онлайн: REST-сервис + консольный клиент к нему | 04.03 &mdash; ОО-дизайн v1 (CRC-карточки) | [TicTacToeOnline](https://github.com/kaledinandrew/TicTacToeOnline) | <details><summary>* Проект повышенной трудности</summary>* Крупная и опытная команда, поэтому scope проекта будет больше, чем у остальных <br> * Опыт бэкенд-разработки есть у Максима, Андрея и Сергея <br> * Web UI не будет, поэтому HTML/CSS/Javascript, к счастью, остаются за бортом</details> |
+| Алиса Гареева (@gareeva_aa), <br> Серёжа Рахманов (@shoraiixyz), <br> Лиза Шатская (@NanamyYu) | Плагин для сервера Minecraft, который добавляет авторизацию через Discord* | 04.03 &mdash; ОО-дизайн v1 (CRC-карточки) | [discraft](https://github.com/NanamyYu/discraft) | * Проект повышенной трудности |
+| Сальков Леонид (@Mr_Leroy), <br> Крапивина Мария (@itoyaaa), <br> Конюх Александр (@snorIax), <br> Новиков Георгий (@gosha22397) | 2. Консольный органайзер | 04.03 — ОО-дизайн v1 (CRC-карточки) | [Console-Organizer](https://github.com/mr1er0y/Console-Organizer) | |
+| Березовский Валерий (@jeembogod), <br> Городилова Анастасия (@nastygorodi) | 9. Генератор коротких текстов (как Яндекс.Рефераты, но для заголовков FAKE NEWS!!!) | 04.03 &mdash; ОО-дизайн v1 (CRC-карточки) | [PROJECT-Short_Text_Generator](https://github.com/nastygorodi/PROJECT-Short_Text_Generator) | |
+| Бекетов Никита Дмитриевич (@try2becareful), <br> Курбанов Рустам Шамилевич (@vkontaktekruto), <br> Турчанинов Михаил Валерьевич (@FANCYoj), <br> Захаров Никита (@nick_nerd)  | 1. Экстрактор метаданных и текста из файлов для быстрого поиска | 04.03 &mdash; ОО-дизайн v1 (CRC-карточки) | [metadata-extractor-java](https://github.com/Placebo900/metadata-extractor-java) | |
+| Леванков Егор (@YegorLevankov), <br> Пантелеев Даниил (@roopeer), <br> Андрей Козлов (@Andrew_D_Kozlov), <br> Алексей Голенков (@Golenkov1) | 10. Простая Roguelike-игра с текстовым интерфейсом | 04.03 &mdash; ОО-дизайн v1 (CRC-карточки) | [roguelike](https://github.com/elevankoff/roguelike) |  |
 | Кайралап Досбол (@DosBall), <br> Калкаманов Илияс (@ikalkamanov), <br> Ярусский Илья (@Ilyarusish) | 8. Симулятор клеточных автоматов | 18.02 — Окончательная проектная документация, см. [java-cell-auto-sim PR#1](https://github.com/DosBall/java-cell-auto-sim/pull/1#issuecomment-1046782100) | [java-cell-auto-sim](https://github.com/DosBall/java-cell-auto-sim) |  |
-| Семён Степанов (@seemsgoood), <br> Василий Вялков (@vslvlkv), <br> Илья Сизов (@sizovjr), <br> Рябов Николай (@ry461ch) | 4. RPN-калькулятор (Модульный) | <br> 25.02 — ОО-дизайн v1 (CRC-карточки) | [hse-java-2022-calc](https://github.com/AndroidM0nkey/hse-java-2022-calc) |  |
+| Семён Степанов (@seemsgoood), <br> Василий Вялков (@vslvlkv), <br> Илья Сизов (@sizovjr), <br> Рябов Николай (@ry461ch) | 4. RPN-калькулятор (Модульный) | <br> 04.03 — ОО-дизайн v1 (CRC-карточки) | [hse-java-2022-calc](https://github.com/AndroidM0nkey/hse-java-2022-calc) |  |
 
 Вне команд (на курс не записаны, проект не берут, могут только смотреть зум с практиками, если захотят):
 * @dimitry
@@ -39,8 +39,9 @@
 </details>
 
 Предстоящие:
-- **Первая версия высокоуровневого объектно-ориентированного дизайна** (CRC-карточки): 25.02
-- **Подробный объектно-ориентированный дизайн системы** (CRC-карточки + UML-диаграммы, возможно, с дополнительным поясняющим текстом):** ??.03
+- **Первая версия высокоуровневого объектно-ориентированного дизайна** (CRC-карточки): 04.03
+  - Презентация: https://github.com/nvamelichev/hse-java-spring-2022/blob/main/3_ood/3_ood.pdf
+- **Подробный объектно-ориентированный дизайн системы** (CRC-карточки + UML-диаграммы, возможно, с дополнительным поясняющим текстом):** 11.03
 
 Общие требования
 ================
