@@ -40,8 +40,7 @@
 
 Предстоящие:
 - **Первая версия высокоуровневого объектно-ориентированного дизайна** (CRC-карточки): 04.03
-  - Презентация "[Введение в объектно-ориентированное проектирование](https://github.com/nvamelichev/hse-java-spring-2022/blob/main/3_ood/3_ood.pdf)", [видео]
-(https://www.youtube.com/watch?v=RsIAc2S2swU&list=PLEwK9wdS5g0qAM8bXQ9gEJWuDkXZWvtt1&t=566s)
+  - Презентация "[Введение в объектно-ориентированное проектирование](https://github.com/nvamelichev/hse-java-spring-2022/blob/main/3_ood/3_ood.pdf)", [видео](https://www.youtube.com/watch?v=RsIAc2S2swU&list=PLEwK9wdS5g0qAM8bXQ9gEJWuDkXZWvtt1&t=566s)
   - Хорошее изложение основ объектно-ориентированного проектирования: Stephen Gilbert, Bill McCarthy. Object-Oriented Design in Java, главы 5..8. Попробуйте поискать в гугле `[object-oriented design in java pdf]`
   - Коротко и с примерами про CRC-карточки:
     - http://wiki.c2.com/?CrcCard (с комментариями практически от отцов-основателей&trade;)
