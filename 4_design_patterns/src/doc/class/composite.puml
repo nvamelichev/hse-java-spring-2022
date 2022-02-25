@@ -1,0 +1,41 @@
+@startuml
+abstract class MenuItem {
+    + text(): String
+    + addClickHandler(handler: EventHandler)
+    + removeClickHandler(handler: EventHandler)
+}
+
+class Leaf extends MenuItem {
+    + text(): String
+    + addClickHandler(handler: EventHandler)
+    + removeClickHandler(handler: EventHandler)
+}
+
+class Popup extends MenuItem {
+    - children: List<MenuItem>
+    ---
+    + text(): String
+    + addClickHandler(handler: EventHandler)
+    + removeClickHandler(handler: EventHandler)
+    ---
+    + addChild(child: MenuItem)
+    + removeChild(child: MenuItem)
+}
+
+abstract class Figure {
+    + draw(dc: DeviceContext)
+}
+
+class Square extends Figure {
+    + draw(dc: DeviceContext)
+}
+
+class CompositeFigure extends Figure {
+    - figures: List<Figure>
+    ---
+    + draw(dc: DeviceContext)
+    ---
+    + addFigure(f: Figure, x: long, y: long)
+    + removeFigure(f: Figure)
+}
+@enduml
