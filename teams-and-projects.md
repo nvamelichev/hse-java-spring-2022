@@ -12,7 +12,7 @@
 | Бекетов Никита Дмитриевич (@try2becareful), <br> Курбанов Рустам Шамилевич (@vkontaktekruto), <br> Турчанинов Михаил Валерьевич (@FANCYoj), <br> Захаров Никита (@nick_nerd)  | 1. Экстрактор метаданных и текста из файлов для быстрого поиска | 28.03 <br> &ndash; Исправленная версия UML-диаграмм системы. См. [комментарий к metadata-extractor-java#4](https://github.com/Placebo900/metadata-extractor-java/issues/4#issuecomment-1079731094) | [metadata-extractor-java](https://github.com/Placebo900/metadata-extractor-java) |  |
 | Леванков Егор (@YegorLevankov), <br> Пантелеев Даниил (@roopeer), <br> Андрей Козлов (@Andrew_D_Kozlov), <br> Алексей Голенков (@Golenkov1) | 10. Простая Roguelike-игра с текстовым интерфейсом | 01.04 &mdash; UML-диаграмма, показывающая поведение системы (Sequence/State Machine/Activity). См. [комментарий к roguelike#3](https://github.com/elevankoff/roguelike/issues/3#issuecomment-1083209329) | [roguelike](https://github.com/elevankoff/roguelike) | |
 | Кайралап Досбол (@DosBall), <br> Калкаманов Илияс (@ikalkamanov), <br> Ярусский Илья (@Ilyarusish) | 8. Симулятор клеточных автоматов | 28.03 <br> &ndash; Первая, она же последняя версия CRC-карточек и UML-диаграмм системы (статической Class и 1+ динамических (Sequence, State Machine, Activity)) | [java-cell-auto-sim](https://github.com/DosBall/java-cell-auto-sim) | **Жду CRC и UML хоть в каком-то виде до 28.03 включительно** |
-| Семён Степанов (@seemsgoood), <br> Василий Вялков (@vslvlkv), <br> Илья Сизов (@sizovjr), <br> Рябов Николай (@ry461ch) | 4. RPN-калькулятор (Модульный) | 28.03 <br> &ndash; Исправленные CRC-карточки. См. [hse-java-2022-calc#3](https://github.com/AndroidM0nkey/hse-java-2022-calc/issues/3) <br> &ndash; Первая, она же последняя версия UML-диаграмм системы (статической Class и 1+ динамических (Sequence, State Machine, Activity)) | [hse-java-2022-calc](https://github.com/AndroidM0nkey/hse-java-2022-calc) | **Жду пофикшенные CRC и первую версию UML до 28.03 включительно** |
+| Семён Степанов (@seemsgoood), <br> Василий Вялков (@vslvlkv), <br> Илья Сизов (@sizovjr), <br> Рябов Николай (@ry461ch) | 4. RPN-калькулятор (Модульный) | 01.04 <br> &ndash; Исправленные CRC-карточки. См. [hse-java-2022-calc#3](https://github.com/AndroidM0nkey/hse-java-2022-calc/issues/3) <br> &ndash; Первая, она же последняя версия UML-диаграмм системы (статической Class и 1+ динамических (Sequence, State Machine, Activity)) | [hse-java-2022-calc](https://github.com/AndroidM0nkey/hse-java-2022-calc) | **Жду пофикшенные CRC и первую версию UML до 01.04 включительно** |
 
 Вне команд (на курс не записаны, проект не берут, могут только смотреть зум с практиками, если захотят):
 * @dimitry
@@ -52,7 +52,12 @@
 </details>
 
 Предстоящие:
-- Первый релиз &mdash; **08.04**
+- **Первый релиз:** дедлайн **08.04** (первый демо-день).
+Критерии оценки:
+  - [ ] Код **локально собирается** в исполняемый JAR-файл с помощью Maven или Gradle
+  - [ ] JAR-файл **успешно запускается** с помощью команды `java -jar <jarfile.jar>` или скрипта (**НЕ** из среды разработки!)
+  - [ ] Реализован **хотя бы 1 ключевой пользовательский сценарий** (User Story)
+  - [ ] [nice to have] Есть юнит-тесты, которые тестируют что-то реальное и успешно проходят. См. [презентацию про тестирование](https://github.com/nvamelichev/hse-java-spring-2022/blob/main/5_testing/5_testing.pdf)
 
 Общие требования
 ================
