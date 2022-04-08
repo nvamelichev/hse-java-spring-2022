@@ -15,6 +15,7 @@ Presentations and additional resources for HSE Java Course / Spring 2022 (https:
   3. OOD: https://github.com/nvamelichev/hse-java-spring-2022/blob/main/3_ood/3_ood.pdf
   4. Design Patterns: https://github.com/nvamelichev/hse-java-spring-2022/blob/main/4_design_patterns/4_design_patterns.pdf
   5. Testing: https://github.com/nvamelichev/hse-java-spring-2022/blob/main/5_testing/5_testing.pdf
+  6. Logging: https://github.com/nvamelichev/hse-java-spring-2022/blob/main/6_logging/6_logging.pdf
 
 - Demo Code:
   1. Maven: https://github.com/nvamelichev/hse-java-spring-2022/tree/main/1_maven/demo
