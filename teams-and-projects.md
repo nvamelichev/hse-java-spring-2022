@@ -5,14 +5,14 @@
 
 | Команда | Проект | Ближайший дедлайн | GitHub | Примечания | Бонусы и штрафы |
 | ------- | ------ | ----------------- | ------ | ---------- | --------------- |
-| Зиннурова Диана (@dianissimo_z), <br> Петров Олег (@pauchara0), <br> Бордюгов Максим (@DedAzaMarks), <br> Каледин Андрей (@kaledin_andrew), <br> Сергей Стриженок (@sstrizhenok) | Крестики-нолики онлайн: REST-сервис + консольный клиент к нему* | 29.04 &mdash; Второй релиз, см. [TicTacToeOnline#11](https://github.com/kaledinandrew/TicTacToeOnline/issues/11) | [TicTacToeOnline](https://github.com/kaledinandrew/TicTacToeOnline) | <details><summary>* Проект повышенной трудности</summary>* Крупная и опытная команда, поэтому scope проекта будет больше, чем у остальных <br> * Опыт бэкенд-разработки есть у Максима, Андрея и Сергея <br> * Web UI не будет, поэтому HTML/CSS/Javascript, к счастью, остаются за бортом</details> | +0.1 за проект повышенной сложности |
-| Алиса Гареева (@gareeva_aa), <br> Серёжа Рахманов (@shoraiixyz), <br> Лиза Шатская (@NanamyYu) | Плагин для сервера Minecraft, который добавляет авторизацию через Discord* | 29.04 &mdash; Второй релиз, см. [discraft#5](https://github.com/NanamyYu/discraft/issues/5) | [discraft](https://github.com/NanamyYu/discraft) | * Проект повышенной трудности | +0.1 за проект повышенной трудности <br> &minus;0.05 за пропуск первого демо-дня |
-| Сальков Леонид (@Mr_Leroy), <br> Крапивина Мария (@itoyaaa), <br> Конюх Александр (@snorIax), <br> Новиков Георгий (@gosha22397) | 2. Консольный органайзер | 29.04 &mdash; Второй релиз, см. [Console-Organizer#5](https://github.com/mr1er0y/Console-Organizer/issues/5) | [Console-Organizer](https://github.com/mr1er0y/Console-Organizer) |  |
-| Березовский Валерий (@jeembogod), <br> Городилова Анастасия (@nastygorodi) | 9. Генератор коротких текстов (как Яндекс.Рефераты, но для заголовков FAKE NEWS!!!) | 29.04 &mdash; Второй релиз (показать **ВСЁ** по первому И второму релизу) | [PROJECT-Short_Text_Generator](https://github.com/nastygorodi/PROJECT-Short_Text_Generator) | | &minus;0.05 за пропуск первого демо-дня |
-| Бекетов Никита Дмитриевич (@try2becareful), <br> Курбанов Рустам Шамилевич (@vkontaktekruto), <br> Турчанинов Михаил Валерьевич (@FANCYoj), <br> Захаров Никита (@nick_nerd)  | 1. Экстрактор метаданных и текста из файлов для быстрого поиска | 29.04 &mdash; Второй релиз, см. [metadata-extractor-java#6](https://github.com/Placebo900/metadata-extractor-java/issues/6) | [metadata-extractor-java](https://github.com/Placebo900/metadata-extractor-java) |  |
-| Леванков Егор (@YegorLevankov), <br> Пантелеев Даниил (@roopeer), <br> Андрей Козлов (@Andrew_D_Kozlov), <br> Алексей Голенков (@Golenkov1) | 10. Простая Roguelike-игра* | 29.04 &mdash; Второй релиз, см. [roguelike#7](https://github.com/elevankoff/roguelike/issues/7) | [roguelike](https://github.com/elevankoff/roguelike) | * Проект повышенной трудности | +0.1 за проект повышенной трудности |
-| Кайралап Досбол (@DosBall), <br> Калкаманов Илияс (@ikalkamanov), <br> Ярусский Илья (@Ilyarusish) | 8. Симулятор клеточных автоматов | 22.04 <br> &ndash; Последнее мелкое исправление UML-диаграммы классов. См. комментарий к [java-cell-auto-sim#6](https://github.com/DosBall/java-cell-auto-sim/issues/6#issuecomment-1100641612) <br> 29.04 &mdash; Второй релиз (показать **ВСЁ** по первому И второму релизу) | [java-cell-auto-sim](https://github.com/DosBall/java-cell-auto-sim) | | &minus;0.05 за пропуск первого демо-дня |
-| Семён Степанов (@seemsgoood), <br> Василий Вялков (@vslvlkv), <br> Илья Сизов (@sizovjr), <br> Рябов Николай (@ry461ch) | 4. RPN-калькулятор (Модульный) | 29.04 &mdash; Второй релиз (показать **ВСЁ** по первому И второму релизу) | [hse-java-2022-calc](https://github.com/AndroidM0nkey/hse-java-2022-calc) | | &minus;0.05 за пропуск первого демо-дня |
+| Зиннурова Диана (@dianissimo_z), <br> Петров Олег (@pauchara0), <br> Бордюгов Максим (@DedAzaMarks), <br> Каледин Андрей (@kaledin_andrew), <br> Сергей Стриженок (@sstrizhenok) | Крестики-нолики онлайн: REST-сервис + консольный клиент к нему* | 20.05 &mdash; Третий релиз, см. **TBD** | [TicTacToeOnline](https://github.com/kaledinandrew/TicTacToeOnline) | <details><summary>* Проект повышенной трудности</summary>* Крупная и опытная команда, поэтому scope проекта будет больше, чем у остальных <br> * Опыт бэкенд-разработки есть у Максима, Андрея и Сергея <br> * Web UI не будет, поэтому HTML/CSS/Javascript, к счастью, остаются за бортом</details> | +0.1 за проект повышенной сложности |
+| Алиса Гареева (@gareeva_aa), <br> Серёжа Рахманов (@shoraiixyz), <br> Лиза Шатская (@NanamyYu) | Плагин для сервера Minecraft, который добавляет авторизацию через Discord* | 20.05 &mdash; Третий релиз, см. **TBD** | [discraft](https://github.com/NanamyYu/discraft) | * Проект повышенной трудности | +0.1 за проект повышенной трудности <br> &minus;0.05 за пропуск первого демо-дня |
+| Сальков Леонид (@Mr_Leroy), <br> Крапивина Мария (@itoyaaa), <br> Конюх Александр (@snorIax), <br> Новиков Георгий (@gosha22397) | 2. Консольный органайзер | 20.05 &mdash; Третий релиз, см. **TBD** | [Console-Organizer](https://github.com/mr1er0y/Console-Organizer) |  |
+| Березовский Валерий (@jeembogod), <br> Городилова Анастасия (@nastygorodi) | 9. Генератор коротких текстов (как Яндекс.Рефераты, но для заголовков FAKE NEWS!!!) | 20.05 &mdash; Третий релиз, см. **TBD** | [PROJECT-Short_Text_Generator](https://github.com/nastygorodi/PROJECT-Short_Text_Generator) | | &minus;0.05 за пропуск первого демо-дня <br> +0.05 за реализацию всех User Story во втором релизе |
+| Бекетов Никита Дмитриевич (@try2becareful), <br> Курбанов Рустам Шамилевич (@vkontaktekruto), <br> Турчанинов Михаил Валерьевич (@FANCYoj), <br> Захаров Никита (@nick_nerd)  | 1. Экстрактор метаданных и текста из файлов для быстрого поиска | 20.05 &mdash; Третий релиз, см. **TBD** | [metadata-extractor-java](https://github.com/Placebo900/metadata-extractor-java) |  |
+| Леванков Егор (@YegorLevankov), <br> Пантелеев Даниил (@roopeer), <br> Андрей Козлов (@Andrew_D_Kozlov), <br> Алексей Голенков (@Golenkov1) | 10. Простая Roguelike-игра* | 20.05 &mdash; Третий релиз, см. **TBD** | [roguelike](https://github.com/elevankoff/roguelike) | * Проект повышенной трудности | +0.1 за проект повышенной трудности <br> &minus;0.05 за пропуск второго демо-дня |
+| Кайралап Досбол (@DosBall), <br> Калкаманов Илияс (@ikalkamanov), <br> Ярусский Илья (@Ilyarusish) | 8. Симулятор клеточных автоматов | 20.05 &mdash; Третий релиз, см. **TBD** | [java-cell-auto-sim](https://github.com/DosBall/java-cell-auto-sim) | | &minus;0.05 за пропуск первого демо-дня |
+| Семён Степанов (@seemsgoood), <br> Василий Вялков (@vslvlkv), <br> Илья Сизов (@sizovjr), <br> Рябов Николай (@ry461ch) | 4. RPN-калькулятор (Модульный) | 20.05 &mdash; Третий релиз, см. **TBD** | [hse-java-2022-calc](https://github.com/AndroidM0nkey/hse-java-2022-calc) | | &minus;0.05 за пропуск первого демо-дня |
 
 Вне команд (на курс не записаны, проект не берут, могут только смотреть зум с практиками, если захотят):
 * @dimitry
@@ -50,26 +50,34 @@
   - **Паттерны проектирования:**
     - Презентация "[Паттерны проектирования](https://github.com/nvamelichev/hse-java-spring-2022/blob/main/4_design_patterns/4_design_patterns.pdf)"
     - **Горячо рекомендую увлекательную книжку {Эрик, Элизабет} Фримен**, в которой можно и нужно рисовать карандашом на полях: https://www.litres.ru/elizabet-robson/head-first-patterny-proektirovaniya-39123671/. Купите физический экземпляр, не пожалеете :-)
-- **Первый релиз:** дедлайн **15.04** (первый демо-день).
+- **Первый релиз:** дедлайн **15.04** (первый демо-день)
 Критерии оценки:
   - [ ] Код **локально собирается** в исполняемый JAR-файл с помощью Maven или Gradle
   - [ ] JAR-файл **успешно запускается** с помощью команды `java -jar <jarfile.jar>` или скрипта (**НЕ** из среды разработки!)
   - [ ] Реализован **хотя бы 1 ключевой пользовательский сценарий** (User Story)
   - [ ] [nice to have] Есть юнит-тесты, которые тестируют что-то реальное и успешно проходят. См. [презентацию про тестирование](https://github.com/nvamelichev/hse-java-spring-2022/blob/main/5_testing/5_testing.pdf)
+- **Второй релиз:** дедлайн **29.04** (второй демо-день)
+  - [ ] Полностью реализованы **хотя бы два пользовательских сценария (User Story)**: ключевой (который уже был в первом релизе) и дополнительный
+  - [ ] Появилась **валидация входных данных**, **обработка ошибок и неожиданных ситуаций** (например, файл не найден)
+  - [ ] Есть **юнит-тесты для всех основных классов**, кроме классов "обвязки"/"клея": принимающих и разбирающих пользовательский ввод, подключающих ваши классы к какому-либо внешнему фреймворку, например, игровому и т.п. **Обязательное тестовое покрытие (line/statement): 70% или выше**
+  - [ ] (необязательно; бонус +0.05) Реализованы **все** пользовательские сценарии (НЕ в ущерб валидации входных данных, обработке ошибок и качеству юнит-тестов)
 </details>
 
-**Второй релиз:** дедлайн **29.04** (второй демо-день).
+**Третий релиз:** дедлайн **20.05** (третий демо-день)
 
 ⚠️ **ВНИМАНИЕ:** Пропустившие демо-день без уважительной причины (болезнь, форс-мажорные обстоятельства) &mdash; получают штрафные баллы: &minus;0.05 за каждый пропуск.
 
-Обязательные требования:
-- [ ] Полностью реализованы **хотя бы два пользовательских сценария (User Story)**: ключевой (который уже был в первом релизе) и дополнительный
-- [ ] Появилась **валидация входных данных**, **обработка ошибок и неожиданных ситуаций** (например, файл не найден)
-- [ ] Есть **юнит-тесты для всех основных классов**, кроме классов "обвязки"/"клея": принимающих и разбирающих пользовательский ввод, подключающих ваши классы к какому-либо внешнему фреймворку, например, игровому и т.п. **Обязательное тестовое покрытие (line/statement): 70% или выше**
-
-Бонусы:
-- [ ] (+0.05) Реализованы **все** пользовательские сценарии (НЕ в ущерб валидации входных данных, обработке ошибок и качеству юнит-тестов)
-
+Критерии оценки:
+  - Реализованы **все** пользовательские сценарии (User Story). 
+  - Java-часть проекта **упакована одним из следующих способов**:
+    - [Docker-образ контейнера](https://github.com/nvamelichev/hse-java-spring-2021/blob/main/8_containers/demo/pom.xml#L60-L180), любой вариант из:
+      - [Google Jib (Java Image Builder) Plugin](https://github.com/GoogleContainerTools/jib)      
+      - [docker-maven-plugin от fabric8.io](https://github.com/fabric8io/docker-maven-plugin)
+      - Написанный вручную `Dockerfile` + немного скриптов, вызывающих `docker build`  
+    - [jlink](https://medium.com/azulsystems/using-jlink-to-build-java-runtimes-for-non-modular-applications-9568c5e70ef4) или [jpackage](https://dev.java/learn/jpackage/#examples)
+    - [GraalVM native-image](https://www.graalvm.org/reference-manual/native-image/)
+  - **В качестве исключения**: проекту `discraft` разрешается сделать контейнер для Python-части проекта (Discord-бота), т.к. способ упаковки Java-части (Minecraft-плагин) определяется средой исполнения (Minecraft-сервером).
+  
 Общие требования
 ================
 Цель проекта – создать **простой, но законченный продукт** вида «Java-библиотека + CLI к ней» (не мобильное и не веб-приложение).
