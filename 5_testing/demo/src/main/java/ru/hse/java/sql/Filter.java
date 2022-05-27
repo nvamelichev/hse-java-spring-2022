@@ -79,7 +79,7 @@ public abstract sealed class Filter permits Filter.Leaf, Filter.Composite {
             EQ {
                 @Override
                 String toSql() {
-                    return "IS NOT NULL";
+                    return "IS NULL";
                 }
 
                 @Override
@@ -90,7 +90,7 @@ public abstract sealed class Filter permits Filter.Leaf, Filter.Composite {
             NEQ {
                 @Override
                 String toSql() {
-                    return "IS NULL";
+                    return "IS NOT NULL";
                 }
 
                 @Override
