@@ -16,6 +16,11 @@ public abstract sealed class Filter permits Filter.Leaf, Filter.Composite {
     public int hashCode() {
         return toSql().hashCode();
     }
+    
+    @Override
+    public boolean equals(Object other) {
+        return other instanceof Filter f && f.toSql().equals(this.toSql());
+    }
 
     public Filter negate() {
         return new Not(this);
